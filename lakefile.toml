@@ -1,0 +1,10 @@
+name = "LeanPlay"
+version = "0.1.0"
+defaultTargets = ["leanplay"]
+
+[[lean_lib]]
+name = "LeanPlay"
+
+[[lean_exe]]
+name = "leanplay"
+root = "Main"
